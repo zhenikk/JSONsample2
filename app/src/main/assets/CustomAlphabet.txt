@@ -1,0 +1,5 @@
+{"CustomAlphabet":[
+    {"Letter":"A", "Word":"Apple","Image":"apple.jpg","Sound":"audio_1.3gp"}, 
+    {"Letter":"B", "Word":"Bear","Image":"bear.jpg","Sound":"audio_2.3gp"}, 
+    {"Letter":"C", "Word":"Calendar","Image":"camera_temp1.jpg","Sound":"audio_3.3gp"}
+]}
